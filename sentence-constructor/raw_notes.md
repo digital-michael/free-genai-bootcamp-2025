@@ -60,6 +60,10 @@ sudo docker-compose --profile cpu up --force-recreate
 
 
 
+# References
+- [Ollama Models](https://ollama.com/search)
+
+
 # Debugging Tips
 
 ## Logging into a Docker container
@@ -68,4 +72,11 @@ sudo docker ps
 #make note of the hash (first column) of the container of interest
 sudo docker exec -it <container_id_or_name> /bin/bash
 
+```
+
+## Pulling update Ollama Model
+```BASH
+# use "Loggig into a Docker container" to access "ollama/ollama:latest"
+ollama pull llama3.3
+#Note: largemodel, will take some time
 ```
