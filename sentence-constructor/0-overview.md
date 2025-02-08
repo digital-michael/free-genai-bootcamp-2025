@@ -10,3 +10,6 @@
 - [4-feedback constraints.md](4-feedback_constraints.md): how we will provide feedback
 - [5-feedback format.md](5-feedback_format.md)): what the format of the feedback will look like
 - [6-focus skill level.md](6-focus_skill_level.md): define the skill level for the user role
+
+
+Notice: I am keeping "semi-structured" [notes](raw_notes.md).
