@@ -9,7 +9,7 @@
 - [3-request_format.md](3-request_format.md): how the role will accomplish the goal in a specific format
 - [4-feedback constraints.md](4-feedback_constraints.md): how we will provide feedback
 - [5-feedback format.md](5-feedback_format.md)): what the format of the feedback will look like
-- [6-focus skill level.md](6-focus_skill_level.md): define the skill level for the user role
-
+- [6-configurations.md](6-configurations.md): define the configurations for this engaguement, such as skill level for the user role
+- [7-compliance.md](7-compliance.md): sets higher level constraints
 
 Notice: I am keeping "semi-structured" [notes](raw_notes.md).

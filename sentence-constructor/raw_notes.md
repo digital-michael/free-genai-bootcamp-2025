@@ -80,3 +80,29 @@ sudo docker exec -it <container_id_or_name> /bin/bash
 ollama pull llama3.3
 #Note: largemodel, will take some time
 ```
+
+## Open WebUI "Workspaces": an exploration
+**Purpose:** see if we can create an isolated environment for GenAI bootcamp / language-learning
+
+### Refenences:
+- [Key Features of Open WebUI](https://docs.openwebui.com/features/)
+
+### Observations
+1. Workspaces appear to encapsulate a model and it's configuration. Example: [Test Workspace: llama for language](http://localhost:3000/?models=test-llama-31latest)
+1. Accessing the Workspace view, we can define new named Workspaces, draw in a model and then configure it with:
+   - System Prompt
+     - Advanced Params including context length, GPU settings, etc
+   - Prompt Suggestions
+   - Knowledge
+   - Tools, Filters and Actions
+   - Capabilities
+   - **Note:** "Most Excellent!"
+1. Mapping from Git files:
+   * System Prompt:  
+      - 1-roles.md
+      - 2-goals.md
+      - 3-
+   * Knowledge Base:
+     - 
+
+
