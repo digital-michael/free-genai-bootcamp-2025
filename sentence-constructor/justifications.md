@@ -9,5 +9,5 @@ I need an application which takes (currently) English and translates to:
 1. Spanish
 1. Italian
 
-# Stretc
+# Stretch
 Late I may make the source language (IE English) an definable optional.
